@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A theme for a book library.",
   "main": "index.js",
-  "homepage":".",
   "scripts": {
   "deploy":"gh-pages -d dist"
   },
