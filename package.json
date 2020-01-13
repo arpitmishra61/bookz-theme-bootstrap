@@ -1,0 +1,15 @@
+{
+  "name": "bookz",
+  "version": "1.0.0",
+  "description": "A theme for a book library.",
+  "main": "index.js",
+  "homepage":".",
+  "scripts": {
+  "deploy":"gh-pages -d dist"
+  },
+  "author": "Arpit Mishra",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
